@@ -34,7 +34,12 @@ Terraform · AWS · Go
 
 **Kemet**: framework multiagente que criei para desenvolver software com IA. São 13 agentes com papéis definidos (produto, requisitos, arquitetura, desenvolvimento, QA, segurança e deploy), guardrails de governança, desenvolvimento guiado por especificação e uma memória de projeto que funciona com qualquer modelo (Claude, Gemini, GPT). É com ele que construo os projetos acima. *Repositório privado.*
 
-Outros projetos pessoais: **FiscalDeTask**, um bot de Telegram que sincroniza com o Google Agenda, avisa na hora de cada compromisso e fica cobrando até a tarefa ser marcada como feita, com soneca, resumo diário e estatísticas (Python, SQLite) · [**ytb-disable-numpad-shortcuts**](https://github.com/YuriSenaTech/ytb-disable-numpad-shortcuts), uma extensão do Chrome que bloqueia os atalhos numéricos do YouTube.
+### 🧩 Outros projetos
+
+| Projeto | O que é | Stack |
+| :--- | :--- | :--- |
+| **FiscalDeTask** | Bot de Telegram que sincroniza com o Google Agenda, avisa na hora de cada compromisso e cobra até a tarefa ser feita (soneca, resumo diário, estatísticas) | Python, SQLite, Google Calendar API |
+| [**ytb-disable-numpad-shortcuts**](https://github.com/YuriSenaTech/ytb-disable-numpad-shortcuts) | Extensão do Chrome que bloqueia os atalhos numéricos do YouTube | JavaScript, Chrome Extension |
 
 ### 🚧 Construindo
 
@@ -61,9 +66,21 @@ I write my own manifests, maintain GitOps pipelines I built from scratch (Tekton
 
 **Currently learning:** Terraform · AWS · Go
 
-**Live:** [Dusk Tracker](https://dusktracker.yurisena.com.br), a forge calculator, drop matrix and material inventory for Perfect World Classic (vanilla JS on Cloudflare Pages + Functions) · *Cozinha* (closed pilot), a product for restaurants: the manager talks, the system organizes it and turns the team's day-to-day into indicators for better decisions (TypeScript, Cloudflare Workers, D1, AI).
+**Live:**
 
-**How I build software:** *Kemet*, a multi-agent framework I created for AI-assisted software development: 13 agents with defined roles (product, requirements, architecture, development, QA, security and deploy), governance guardrails, spec-driven development and a model-agnostic project memory (Claude, Gemini, GPT). It's how I build the projects above. *Private repository.* Also: *FiscalDeTask*, a Telegram bot that syncs with Google Calendar, alerts at each appointment and keeps nudging until the task is marked done, with snooze, daily summary and stats (Python, SQLite) · [ytb-disable-numpad-shortcuts](https://github.com/YuriSenaTech/ytb-disable-numpad-shortcuts), a Chrome extension that blocks YouTube's number-key shortcuts.
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| [**Dusk Tracker**](https://dusktracker.yurisena.com.br) | Forge calculator, drop matrix and material inventory for Perfect World Classic | Vanilla JS, Cloudflare Pages + Functions |
+| **Cozinha** *(closed pilot)* | A product for restaurants: the manager talks, the system organizes it and turns the team's day-to-day into indicators for better decisions | TypeScript, Cloudflare Workers, D1, AI |
+
+**How I build software:** *Kemet*, a multi-agent framework I created for AI-assisted software development: 13 agents with defined roles (product, requirements, architecture, development, QA, security and deploy), governance guardrails, spec-driven development and a model-agnostic project memory (Claude, Gemini, GPT). It's how I build the projects above. *Private repository.*
+
+**Other projects:**
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **FiscalDeTask** | Telegram bot that syncs with Google Calendar, alerts at each appointment and keeps nudging until the task is done (snooze, daily summary, stats) | Python, SQLite, Google Calendar API |
+| [**ytb-disable-numpad-shortcuts**](https://github.com/YuriSenaTech/ytb-disable-numpad-shortcuts) | Chrome extension that blocks YouTube's number-key shortcuts | JavaScript, Chrome Extension |
 
 **Building:** *telemetry-platform*, an observability ingestion platform. It has a Go API backed by a distributed, partitioned PostgreSQL + Citus. The same Kubernetes manifests run on a local GitOps cluster (ArgoCD, Citus + Patroni HA) and on an EKS cluster provisioned with Terraform. *Public repositories coming soon.*
 
