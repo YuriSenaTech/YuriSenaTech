@@ -34,7 +34,7 @@ Terraform · AWS · Go
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| **Kemet** | Framework multiagente que criei para desenvolver software com IA: 13 agentes com papéis definidos (produto, requisitos, arquitetura, dev, QA, segurança e deploy), guardrails de governança, desenvolvimento guiado por especificação e memória de projeto que funciona com qualquer modelo. É com ele que construo os projetos acima | Claude, Gemini, GPT, Python |
+| **Kemet** | Framework multiagente que criei para desenvolver software com IA: 13 agentes com papéis definidos (produto, requisitos, arquitetura, dev, QA, segurança e deploy), guardrails de governança, desenvolvimento guiado por especificação e memória de projeto que funciona com qualquer modelo. É com ele que construo os projetos acima | Claude Code, Python |
 | **FiscalDeTask** | Bot de Telegram que sincroniza com o Google Agenda, avisa na hora de cada compromisso e cobra até a tarefa ser feita (soneca, resumo diário, estatísticas) | Python, SQLite, Google Calendar API |
 | [**ytb-disable-numpad-shortcuts**](https://github.com/YuriSenaTech/ytb-disable-numpad-shortcuts) | Extensão do Chrome que bloqueia os atalhos numéricos do YouTube | JavaScript, Chrome Extension |
 
@@ -74,7 +74,7 @@ I write my own manifests, maintain GitOps pipelines I built from scratch (Tekton
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **Kemet** | Multi-agent framework I created for AI-assisted software development: 13 agents with defined roles (product, requirements, architecture, dev, QA, security and deploy), governance guardrails, spec-driven development and a model-agnostic project memory. It's how I build the projects above | Claude, Gemini, GPT, Python |
+| **Kemet** | Multi-agent framework I created for AI-assisted software development: 13 agents with defined roles (product, requirements, architecture, dev, QA, security and deploy), governance guardrails, spec-driven development and a model-agnostic project memory. It's how I build the projects above | Claude Code, Python |
 | **FiscalDeTask** | Telegram bot that syncs with Google Calendar, alerts at each appointment and keeps nudging until the task is done (snooze, daily summary, stats) | Python, SQLite, Google Calendar API |
 | [**ytb-disable-numpad-shortcuts**](https://github.com/YuriSenaTech/ytb-disable-numpad-shortcuts) | Chrome extension that blocks YouTube's number-key shortcuts | JavaScript, Chrome Extension |
 
