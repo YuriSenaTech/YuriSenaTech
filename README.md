@@ -28,7 +28,7 @@ Terraform · AWS · Go
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
 | [**Dusk Tracker**](https://dusktracker.yurisena.com.br) | Calculadora de forja, matriz de drops e inventário de materiais para Perfect World Clássico | JavaScript puro, Cloudflare Pages + Functions |
-| **Gestão para restaurantes** *(piloto fechado)* | Produto para restaurantes: o gestor fala, o sistema organiza. Transforma o dia a dia da equipe em indicadores para decidir melhor | TypeScript, Cloudflare Workers, SQLite, IA |
+| **Gestão para restaurantes** *(piloto fechado)* | O gestor fala, o sistema organiza. Transforma o dia a dia da equipe em indicadores para decidir melhor | TypeScript, Cloudflare Workers, SQLite, IA |
 
 ### 🧩 Outros projetos
 
@@ -68,7 +68,7 @@ I write my own manifests, maintain GitOps pipelines I built from scratch (Tekton
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
 | [**Dusk Tracker**](https://dusktracker.yurisena.com.br) | Forge calculator, drop matrix and material inventory for Perfect World Classic | Vanilla JS, Cloudflare Pages + Functions |
-| **Restaurant management** *(closed pilot)* | A product for restaurants: the manager talks, the system organizes it and turns the team's day-to-day into indicators for better decisions | TypeScript, Cloudflare Workers, SQLite, AI |
+| **Restaurant management** *(closed pilot)* | The manager talks, the system organizes it and turns the team's day-to-day into indicators for better decisions | TypeScript, Cloudflare Workers, SQLite, AI |
 
 **Other projects:**
 
