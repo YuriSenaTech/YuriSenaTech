@@ -27,10 +27,6 @@ Terraform · AWS · Go
 
 **telemetry-platform**: plataforma de ingestão de métricas e eventos de observabilidade. Tem uma API em Go e grava num PostgreSQL + Citus distribuído e particionado. Os mesmos manifests Kubernetes rodam num cluster local com GitOps (ArgoCD, Citus + Patroni em HA) e num EKS provisionado por Terraform. *Repositórios públicos em breve.*
 
-### 📊 GitHub
-
-<img src="https://streak-stats.demolab.com?user=YuriSenaTech&locale=pt_BR&hide_border=true" alt="Contribuições no GitHub" height="160" />
-
 ### 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/yurissenas) · yurisenatech@gmail.com
