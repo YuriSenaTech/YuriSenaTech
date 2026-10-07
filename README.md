@@ -34,7 +34,7 @@ Terraform · AWS · Go
 
 **Kemet**: framework multiagente que criei para desenvolver software com IA. São 13 agentes com papéis definidos (produto, requisitos, arquitetura, desenvolvimento, QA, segurança e deploy), guardrails de governança, desenvolvimento guiado por especificação e uma memória de projeto que funciona com qualquer modelo (Claude, Gemini, GPT). É com ele que construo os projetos acima. *Repositório privado.*
 
-Outros projetos pessoais: **Farol**, um radar de vagas que coleta, classifica por perfil e mostra em que vagas eu me encaixo hoje (Python, FastAPI, SQLite) · [**ytb-disable-numpad-shortcuts**](https://github.com/YuriSenaTech/ytb-disable-numpad-shortcuts), uma extensão do Chrome que bloqueia os atalhos numéricos do YouTube.
+Outros projetos pessoais: **FiscalDeTask**, um bot de Telegram que sincroniza com o Google Agenda, avisa na hora de cada compromisso e fica cobrando até a tarefa ser marcada como feita, com soneca, resumo diário e estatísticas (Python, SQLite) · [**ytb-disable-numpad-shortcuts**](https://github.com/YuriSenaTech/ytb-disable-numpad-shortcuts), uma extensão do Chrome que bloqueia os atalhos numéricos do YouTube.
 
 ### 🚧 Construindo
 
@@ -63,7 +63,7 @@ I write my own manifests, maintain GitOps pipelines I built from scratch (Tekton
 
 **Live:** [Dusk Tracker](https://dusktracker.yurisena.com.br), a forge calculator, drop matrix and material inventory for Perfect World Classic (vanilla JS on Cloudflare Pages + Functions) · *Cozinha* (closed pilot), a product for restaurants: the manager talks, the system organizes it and turns the team's day-to-day into indicators for better decisions (TypeScript, Cloudflare Workers, D1, AI).
 
-**How I build software:** *Kemet*, a multi-agent framework I created for AI-assisted software development: 13 agents with defined roles (product, requirements, architecture, development, QA, security and deploy), governance guardrails, spec-driven development and a model-agnostic project memory (Claude, Gemini, GPT). It's how I build the projects above. *Private repository.* Also: *Farol*, a job radar that collects, classifies by profile and shows which openings I fit today (Python, FastAPI, SQLite) · [ytb-disable-numpad-shortcuts](https://github.com/YuriSenaTech/ytb-disable-numpad-shortcuts), a Chrome extension that blocks YouTube's number-key shortcuts.
+**How I build software:** *Kemet*, a multi-agent framework I created for AI-assisted software development: 13 agents with defined roles (product, requirements, architecture, development, QA, security and deploy), governance guardrails, spec-driven development and a model-agnostic project memory (Claude, Gemini, GPT). It's how I build the projects above. *Private repository.* Also: *FiscalDeTask*, a Telegram bot that syncs with Google Calendar, alerts at each appointment and keeps nudging until the task is marked done, with snooze, daily summary and stats (Python, SQLite) · [ytb-disable-numpad-shortcuts](https://github.com/YuriSenaTech/ytb-disable-numpad-shortcuts), a Chrome extension that blocks YouTube's number-key shortcuts.
 
 **Building:** *telemetry-platform*, an observability ingestion platform. It has a Go API backed by a distributed, partitioned PostgreSQL + Citus. The same Kubernetes manifests run on a local GitOps cluster (ArgoCD, Citus + Patroni HA) and on an EKS cluster provisioned with Terraform. *Public repositories coming soon.*
 
