@@ -35,6 +35,7 @@ Terraform · AWS · Go
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
 | **Kemet** | Framework multiagente que criei para desenvolver software com IA: 13 agentes com papéis definidos (produto, requisitos, arquitetura, dev, QA, segurança e deploy), guardrails de governança, desenvolvimento guiado por especificação e memória de projeto que funciona com qualquer modelo. É com ele que construo os projetos acima | Claude Code, Python |
+| **Agentes de conteúdo** | Time de 5 agentes de IA que pesquisa evidências em fontes científicas, valida a base de conhecimento, monta o calendário editorial e escreve posts de Instagram para uma profissional de saúde, com um agente revisor que barra o que fugir das regras antes da entrega | Claude Code, Python |
 | **FiscalDeTask** | Bot de Telegram que sincroniza com o Google Agenda, avisa na hora de cada compromisso e cobra até a tarefa ser feita (soneca, resumo diário, estatísticas) | Python, SQLite, Google Calendar API |
 | [**ytb-disable-numpad-shortcuts**](https://github.com/YuriSenaTech/ytb-disable-numpad-shortcuts) | Extensão do Chrome que bloqueia os atalhos numéricos do YouTube | JavaScript, Chrome Extension |
 
@@ -75,6 +76,7 @@ I write my own manifests, maintain GitOps pipelines I built from scratch (Tekton
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
 | **Kemet** | Multi-agent framework I created for AI-assisted software development: 13 agents with defined roles (product, requirements, architecture, dev, QA, security and deploy), governance guardrails, spec-driven development and a model-agnostic project memory. It's how I build the projects above | Claude Code, Python |
+| **Content agents** | A team of 5 AI agents that researches evidence in scientific sources, validates the knowledge base, builds the editorial calendar and writes Instagram posts for a healthcare professional, with a reviewer agent that blocks anything off-rules before delivery | Claude Code, Python |
 | **FiscalDeTask** | Telegram bot that syncs with Google Calendar, alerts at each appointment and keeps nudging until the task is done (snooze, daily summary, stats) | Python, SQLite, Google Calendar API |
 | [**ytb-disable-numpad-shortcuts**](https://github.com/YuriSenaTech/ytb-disable-numpad-shortcuts) | Chrome extension that blocks YouTube's number-key shortcuts | JavaScript, Chrome Extension |
 
